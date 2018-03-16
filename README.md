@@ -1,4 +1,4 @@
-# Login_and_Registration System
+# PHP Login_and_Registration System
 # Secure login and registration with hashed password.
 # User Authentication
 # Password Reset Functionality
